@@ -43,3 +43,6 @@ I was told to change column name 'Subject' to 'Course'. This was done using the 
 
 
 I also deleted the Age column from the STUDENTS_INFO table using --ALTER TABLE STUDENTS_INFO DROP COLUMN AGE;
+
+
+![](end.png)
